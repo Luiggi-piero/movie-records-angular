@@ -1,6 +1,10 @@
 # MovieRecords
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+Sistema web para el registro y control de peliculas pendientes y vistas usando un servidor json.
+- Angular
+- HTML 
+- CSS
 
 ## Development server
 
