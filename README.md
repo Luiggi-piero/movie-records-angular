@@ -6,6 +6,7 @@ Sistema web para el registro y control de peliculas pendientes y vistas usando u
 - HTML 
 - CSS
 
+![mr](https://user-images.githubusercontent.com/86317658/204660839-6b9351f4-5a18-49f6-839f-7d7d3b759bd2.png)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
